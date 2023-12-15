@@ -329,6 +329,10 @@ function get_data(domain, callback) {
           callback(res.data);
         }
       });
+    } else {
+      status.innerHTML = '';
+      reset.disabled = false;
+      callback(res.data);
     }
   });
 }
