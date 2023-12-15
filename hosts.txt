@@ -2,7 +2,7 @@
 # Hosts modified by Sekedus
 # Project page: https://github.com/sekedus/bebasid-whitelist
 #
-# Latest update: 2023-12-07T14:26:16+08:00
+# Latest update: 2023-12-15T14:07:42+08:00
 # Request update? visit: https://fb.com/sekedus
 #
 # Source:
@@ -469,6 +469,7 @@
 199.232.45.140 1017covid19-redditx-03.reddit.com
 199.232.45.140 ae03.reddit.com
 199.232.45.140 e2410e13.reddit.com
+199.232.45.140 2018coronavirusp999123.reddit.com
 199.232.45.140 www123.reddit.com
 199.232.45.140 jb-33.reddit.com
 199.232.45.140 bestof2033.reddit.com
@@ -568,6 +569,7 @@
 199.232.45.140 2018coronavirussv55.reddit.com
 199.232.45.140 944a4cdb199285.reddit.com
 199.232.45.140 2018coronavirusyhn7uj295.reddit.com
+199.232.45.140 7772b9c95.reddit.com
 199.232.45.140 a5.reddit.com
 199.232.45.140 9d58a5.reddit.com
 199.232.45.140 persona5.reddit.com
@@ -2633,6 +2635,7 @@
 151.101.40.193 www.c3op30.imgur.com
 151.101.40.193 5w0r30.imgur.com
 151.101.40.193 1347617040.imgur.com
+151.101.40.193 6688867040.imgur.com
 151.101.40.193 aac5e9040.imgur.com
 151.101.40.193 8aac5e9040.imgur.com
 151.101.40.193 95g49p340.imgur.com
@@ -5723,13 +5726,12 @@
 217.65.97.109 stat.www.freeweb.hu
 
 # [pahe.in]
-136.243.46.151 e5.pahe.in
-104.21.60.55 www.pahe.in
 172.67.192.118 pahe.in
+136.243.46.151 e5.pahe.in
 
-# [pahe.li]
-172.67.193.46 www.pahe.li
-172.67.193.46 pahe.li
+# [pahe.me]
+192.124.249.9 www.pahe.me
+192.124.249.9 pahe.me
 
 # [60fps.xyz]
 172.67.184.122 60fps.xyz
@@ -7541,3 +7543,46 @@
 # [owo.si]
 194.146.13.170 owo.si
 194.146.13.170 www.owo.si
+
+# [postimg.cc]
+104.238.220.140 s30.postimg.cc
+104.238.220.140 ns3.postimg.cc
+46.229.175.90 www.postimg.cc
+104.238.221.169 s19.postimg.cc
+104.238.221.169 s21.postimg.cc
+104.238.220.140 s18.postimg.cc
+104.238.220.140 s20.postimg.cc
+104.238.220.140 s15.postimg.cc
+104.238.220.140 s10.postimg.cc
+104.238.221.169 s12.postimg.cc
+104.238.222.11 s29.postimg.cc
+104.238.220.140 s24.postimg.cc
+104.238.221.169 s32.postimg.cc
+104.238.220.140 s14.postimg.cc
+104.238.221.169 s27.postimg.cc
+104.238.221.169 s26.postimg.cc
+104.238.220.140 s17.postimg.cc
+104.238.220.140 s33.postimg.cc
+104.238.220.140 s28.postimg.cc
+46.229.175.90 ns1.postimg.cc
+104.238.221.169 s16.postimg.cc
+104.238.221.169 s13.postimg.cc
+104.238.220.140 s31.postimg.cc
+104.238.220.140 s11.postimg.cc
+104.238.220.140 s25.postimg.cc
+104.238.222.11 s22.postimg.cc
+162.19.61.80 ns2.postimg.cc
+104.238.221.169 s23.postimg.cc
+104.238.221.169 s8.postimg.cc
+104.238.222.11 s5.postimg.cc
+104.238.221.169 s1.postimg.cc
+104.238.221.169 s9.postimg.cc
+104.238.220.140 s6.postimg.cc
+104.238.221.169 s2.postimg.cc
+104.238.220.140 s3.postimg.cc
+104.238.220.140 s7.postimg.cc
+104.238.220.140 s4.postimg.cc
+104.238.221.169 i.postimg.cc
+104.238.220.140 s.postimg.cc
+104.238.221.169 I.postimg.cc
+46.229.175.90 postimg.cc
