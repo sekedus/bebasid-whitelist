@@ -312,6 +312,13 @@ function crtsh(domain, callback) {
 }
 
 function get_data(domain, callback) {
+  /*
+  Find Subdomain API:
+  - https://github.com/0xPugazh/SubDomz/blob/d7b15bb6ac7ea8c3e150ffc19d62ac347495ccde/SubDomz
+  - https://github.com/guelfoweb/knock/tree/1d2776647655376234ecce9e533452a363b2f9ef/knockpy/remote
+  - https://github.com/screetsec/Sudomy/tree/a34edc4da24f50e65a88bf689749b5eb82a303cb/engine
+  */
+
   status.innerHTML = 'Loading...';
   
   threatcrowd(domain, function(tcres) {
