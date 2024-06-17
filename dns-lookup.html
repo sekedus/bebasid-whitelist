@@ -231,6 +231,8 @@ function check_data(num) {
 }
 
 function show_data(data) {
+  if (!data.includes(d_root)) data.unshift(d_root);
+  
   finish = false;
   interval = Number(intrvl.value);
   
@@ -265,7 +267,7 @@ function hackertarget(domain, callback) {
     if (err) {
       callback({'error': err});
     } else {
-      callback({'data': res.replace(/,.*/gm, '').split('\n')});
+      callback({'data': res.replace(/,.*/gm, '').replace(/\n$/, '').split('\n')});
     }
   });
 }
@@ -306,7 +308,7 @@ function crtsh(domain, callback) {
     if (err) {
       callback({'error': err});
     } else {
-      callback({'data': JSON.parse(res.body)[0].name_value.split('\n')});
+      callback({'data': JSON.parse(res.body)[0].name_value.replace(/\n$/, '').split('\n')});
     }
   });
 }

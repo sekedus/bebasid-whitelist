@@ -7586,3 +7586,13 @@
 104.238.220.140 s.postimg.cc
 104.238.221.169 I.postimg.cc
 46.229.175.90 postimg.cc
+
+# [imgbb.com]
+104.21.20.64 imgbb.com
+104.21.20.64 www.imgbb.com
+140.82.15.89 ibb.co
+172.96.160.168 thumb.ibb.co
+172.96.160.183 image.ibb.co
+172.96.161.6 i.ibb.co
+172.96.160.210 preview.ibb.co
+140.82.15.89 www.ibb.co

@@ -17,8 +17,8 @@ Buka halaman situs web yang diblokir dengan menggunakan [_hosts file_](<https://
   - klik `Copy to clipboard`
 - Dapatkan alamat IP dengan [Bulk DNS Lookup](https://www.onlinednslookup.com/bulk-dns-lookup/)
   - Query: `A`
-  - Server: [`Plain DNS IPv4` dari BEBASDNS](https://github.com/bebasid/bebasdns?tab=readme-ov-file#dns-bawaan-default)
-    - (untuk memastikan alamat IP yang didapat untuk akses dari Indonesia)
+  - Server: [`Plain DNS IPv4` dari BEBASDNS](https://github.com/bebasid/bebasdns/tree/82f5b6c20bca8313385d505b1996b2f34e640c8c?tab=readme-ov-file#dns-bawaan-default)
+    - (memastikan alamat IP yang didapat untuk akses dari Indonesia)
   - klik `Check DNS`
   - Tambahkan ke [hosts](https://en.wikipedia.org/wiki/Hosts_(file)) dengan format `ipaddress url.com`
 
